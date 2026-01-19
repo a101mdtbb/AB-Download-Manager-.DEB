@@ -1,17 +1,17 @@
 # AB Download Manager (.deb)
 
-Este paquete permite instalar **AB Download Manager** de forma nativa en distribuciones basadas en Debian (Ubuntu, Linux Mint, Pop!_OS, etc.). Al usar el instalador `.deb`, la aplicación se integra en el sistema, permitiendo lanzarla desde el menú de inicio y gestionarla con el administrador de paquetes.
+This package allows you to install **AB Download Manager** natively on Debian-based distributions (Ubuntu, Linux Mint, Pop!_OS, etc.). By using the `.deb` installer, the application integrates seamlessly into your system, allowing you to launch it from the application menu and manage it via your package manager.
 
-## Qué es AB Download Manager
-Es un gestor de descargas rápido y ligero, diseñado para integrarse con navegadores y manejar múltiples descargas de forma eficiente.
+## What is AB Download Manager?
+It is a fast and lightweight download manager designed to integrate with browsers and handle multiple downloads efficiently.
 
-Para más información, visita la página oficial: [abdownloadmanager.com](https://abdownloadmanager.com/)
+For more information, visit the official website: [abdownloadmanager.com](https://abdownloadmanager.com/)
 
-## Instalación
+## Installation
 
-1. Descarga el archivo `.deb` desde la sección de **Releases**.
-2. Abre una terminal en la carpeta donde lo descargaste.
-3. Instala el paquete con el siguiente comando:
+1. Download the `.deb` file from the **Releases** section.
+2. Open a terminal in the folder where the file was downloaded.
+3. Install the package using the following command:
 
 ```bash
 sudo apt update
